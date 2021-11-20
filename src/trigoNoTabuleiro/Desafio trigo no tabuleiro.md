@@ -6,12 +6,3 @@ A primeira linha de entrada contem um único inteiro N (1 ≤ N ≤ 100), indica
 Saída
 Para cada caso de teste, imprima a quantidade de kgs de trigo que o monge esperava receber.
 
-Exemplo de Entrada	Exemplo de Saída
-3
-7
-19
-14
-
-0 kg
-43 kg
-1 kg
