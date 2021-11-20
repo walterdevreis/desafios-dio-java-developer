@@ -12,14 +12,3 @@ O final da entrada é indicado por uma linha contendo quatro zeros.
 Saída
 Para cada caso de teste da entrada seu programa deve imprimir uma única linha na saída, contendo um número inteiro, indicando o menor número de movimentos necessários para a dama chegar em sua casa de destino.
 
-Exemplo de Entrada	Exemplo de Saída
-4 4 6 2
-3 5 3 5
-5 5 4 3
-0 0 0 0
-
-1
-0
-2
-
-Maratona de Programação da SBC 2008.
