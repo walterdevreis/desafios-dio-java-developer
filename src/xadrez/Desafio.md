@@ -9,22 +9,17 @@ Saída
 Imprima uma linha na saída. A linha deve conter um inteiro, representando a cor da casa no canto inferior direito do tabuleiro, e para identificar, considere o inteiro 1 para a cor branca e 0 para a cor preta.
 
 Exemplos de Entrada	Exemplos de Saída
-6
-
+6                       0
 9
 
-0
+-----------------------------------------------
 
-
+8                       1 
 8
 
-8
+-----------------------------------------------
 
-1
-
-
-5
-
+5                       1 
 91
 
-1
+
