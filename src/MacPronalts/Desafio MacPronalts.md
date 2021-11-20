@@ -18,34 +18,5 @@ Obs.: não poderão ser informados números de produtos repetidos.
 Saída
 Você deve imprimir o valor da compra com duas casas decimais.
 
-Input Sample	Output Sample
-2
-
-1001 2
-
-1005 3
-
-19.50
-
-1
-
-1003 500
-
-1750.00
-
-5
-
-1001 500
-
-1005 300
-
-1003 23
-
-1002 52
-
-1004 44
-
-2808.50
-
 
 I Seletiva MaratonaTEC - Maratona de Programação PRONATEC - UNIME
