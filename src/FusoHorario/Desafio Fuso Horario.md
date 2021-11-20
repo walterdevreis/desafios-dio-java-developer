@@ -11,15 +11,3 @@ A entrada contém 3 inteiros: S (0 ≤ S ≤ 23), T (1 ≤ T ≤ 12) e F (-5 ≤
 Saída
 Imprima um inteiro que indica a hora local prevista no destino, conforme os exemplos abaixo.
 
-Exemplos de Entrada	Exemplos de Saída
-10 7 3
-
-20
-
-
-22 6 -2
-
-2
-0 3 -4
-
-23
