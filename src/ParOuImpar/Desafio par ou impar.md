@@ -6,14 +6,3 @@ A primeira linha da entrada contém um valor inteiro N(N < 10000) que indica o n
 Saída
 Para cada caso, imprima uma mensagem correspondente, de acordo com o exemplo abaixo. Todas as letras deverão ser maiúsculas e sempre deverá haver um espaço entre duas palavras impressas na mesma linha.
 
-Exemplo de Entrada	Exemplo de Saída
-4
--5
-0
-3
--4
-
-ODD NEGATIVE
-NULL
-ODD POSITIVE
-EVEN NEGATIVE
